@@ -20,8 +20,8 @@ const Header = () => {
               <span className='text-white'>Account</span>
             </div>
           </div>
-          <div className='paragraph-text'>
-          <p className='text-white text-start display-3 fw-medium'>Be prepared for The  <br /> Mountains And Beyond!</p>
+          <div className='paragraph-text d-flex justify-content-center mt-5'>
+          <p className='text-white  text-start display-3 fw-medium'>Be prepared for The  <br /> Mountains And Beyond!</p>
           </div>
         </div>
     </>
