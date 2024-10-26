@@ -1,4 +1,5 @@
 .hero-image{
+  /* position: relative; */
   background-image: url(./Components/Assets/background-img.jpg);
   background-repeat: no-repeat;
   background-size: cover;
@@ -9,4 +10,8 @@
   position: absolute;
   top: 310px;
   left: 500px;
+}
+
+.hiker-image{
+  margin-top: -50px;
 }
