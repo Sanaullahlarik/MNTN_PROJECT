@@ -11,10 +11,10 @@ export const Section_two = () => {
           <img className='pt-5 img-fluid w-75 h-50' src={Section_twoImg} alt="" />
         </div>
         <div className='text-white me-5 pt-5'>
-          <span className='text-warning'><Icon className=' text-warning' icon="vaadin:line-h" /> GEt Started</span>
-          <h3 className='display-4 fw-normal'>What level of  hiker <br /> are you?</h3>
+          <span className='text-warning'><Icon className=' text-warning' icon="vaadin:line-h" /> Hiking Essentials</span>
+          <h3 className='display-4 fw-normal'>Picking the right <br /> Hiking Gear!</h3>
           <p>Determining what level of hiker you are can be an important tool when <br /> planning future hikes. This hiking level guide will help you plan hikes <br /> according to different hike ratings set by various websites like All Trails and <br /> Modern Hiker. What type of hiker are you – novice, moderate, advanced <br /> moderate, expert, or expert backpacker? </p>
-          <span className='text-warning'>Raed more <Icon className='ms-1 text-warning' icon="icon-park-outline:arrow-right" /></span>
+          <span className='text-warning'>read more <Icon className='ms-1 text-warning' icon="icon-park-outline:arrow-right" /></span>
         </div>
       </div>
     </div>
