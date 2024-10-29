@@ -2,13 +2,27 @@
   background-image: url(./Components/Assets/background-img.jpg);
   background-repeat: no-repeat;
   background-size: cover;
-  height: 100vh;
 }
 
-.paragraph-text{
- padding-top: 100px;
+.Hero-Section{
+  margin-top: 150px;
 }
 
 .hiker-image{
   margin-top: -50px;
+}
+
+.image-num-1{
+  left: 10%;
+  top: 5%;
+}
+
+.image-num-2{
+  left: 43%;
+  top: 25%;
+}
+
+.image-num-3{
+  left: 10%;
+  top: 15%;
 }
