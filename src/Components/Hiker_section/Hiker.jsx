@@ -9,9 +9,7 @@ export class Hiker extends Component {
       <>
       <div className='bg-black d-flex justify-content-center gap-5 align-items-center position-relative'>
         <div className='text-white me-5'> 
-          <div className='w-25 h-25'>
-          <hr className=' border text-danger text-warning' /><span className='text-warning'> Get Started</span>
-          </div>
+        <span className='text-warning'><Icon className=' text-warning' icon="vaadin:line-h" /> Get Started</span>
         <h3 className='display-4 fw-normal'>What level of  hiker <br /> are you?</h3>
         <p>Determining what level of hiker you are can be an important tool when <br /> planning future hikes. This hiking level guide will help you plan hikes <br /> according to different hike ratings set by various websites like All Trails and <br /> Modern Hiker. What type of hiker are you – novice, moderate, advanced <br /> moderate, expert, or expert backpacker? </p>
         <span className='text-warning'>read more <Icon className='ms-1 text-warning' icon="icon-park-outline:arrow-right" /></span>

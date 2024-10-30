@@ -36,7 +36,11 @@ const Header = () => {
               <span><Icon icon="mdi:twitter" /></span>
             </div>
             <div className="col-6 col-lg-8">
-            <h5 className='text-warning'><Icon className='ms-2 text-warning' icon="vaadin:line-h" />A HIKING GUIDE</h5>
+              <div className='d-flex align-items-center'>
+              {/* <Icon className='ms-2 text-warning' icon="vaadin:line-h" /> */}
+              <hr className='me-4 border' style={{width: "60px"}} />
+              <h5 className='text-warning'>A HIKING GUIDE</h5>
+              </div>
               <h1 className='display-2 fw-medium'>Be Prepared for The  Mountains And Beyond!</h1>
               <h6 className='mt-4'>scroll down<Icon class="btn-group-vertical me-1 fs-3" icon="line-md:arrow-down" /></h6>
             </div>
